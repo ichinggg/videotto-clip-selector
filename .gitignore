@@ -1,0 +1,7 @@
+videos/
+backend/exports/
+__pycache__/
+*.mp4
+*.wav
+venv/
+.env
